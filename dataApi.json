@@ -1,0 +1,38 @@
+{
+    "usuario": 
+    [
+        {
+            "id": 1,
+            "nombre": "Antonio",
+            "apellidos": "de la Fuente",
+            "ciudad": "Sevilla",
+            "telefono": 666666666,
+            "email": "antonio@antonio.com",
+            "usuario": "antonio",
+            "password": "antonio",
+            "active": true
+        },
+        {
+            "id": 2,
+            "nombre": "Pepe",
+            "apellidos": "de la Fuente",
+            "ciudad": "Sevilla",
+            "telefono": 666666666,
+            "email": "pepe@pepe.com",
+            "usuario": "pepe",
+            "password": "pepe",
+            "active": true
+        },
+        {
+            "id": 3,
+            "nombre": "Luis",
+            "apellidos": "de la Fuente",
+            "ciudad": "Sevilla",
+            "telefono": 666666666,
+            "email": "luis@luis.com",
+            "usuario": "luis",
+            "password": "luis",
+            "active": true
+        }
+    ]
+}
